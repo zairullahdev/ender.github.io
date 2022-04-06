@@ -10,7 +10,7 @@ Hi!, How do you get here?, Alright, I'm provide discord bot
 There 1 bot right now, I'll add if I get time
 
 
-<a href="https://discord.com/api/oauth2/authorize?client_id=952445818810540042&scope=bot+applications.commands&permissions=8"><img src="https://svgshare.com/i/fz4.svg" alt="Invite."></a>
+<a href="https://discord.com/api/oauth2/authorize?client_id=952445818810540042&scope=bot+applications.commands&permissions=8"><img src="https://img.shields.io/static/v1?label=Invite%20Me&message=EnderEliteBot%237022&plastic&color=5865F2&logo=discord" alt="Invite."></a>
 
 # It's 24/7?
 Yes.
