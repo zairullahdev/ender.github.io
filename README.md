@@ -24,6 +24,6 @@ No, this forked bot, i just edit some code
 
 
 # Where you host it?
-Read the README.md
+Read the repo
 
 [My repo](https://github.com/zairullahdev/rawon)
